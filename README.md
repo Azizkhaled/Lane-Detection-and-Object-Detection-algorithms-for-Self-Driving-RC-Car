@@ -4,7 +4,9 @@ With the increase in numbers of car traffic collisions caused by the human  driv
 ## Project demonstration:
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LfjG-SfHtPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+[![Project demo]          // Title
+(https://i9.ytimg.com/vi/LfjG-SfHtPo/mqdefault.jpg?v=630d2723&sqp=CPjMtJgG&rs=AOn4CLCUkdU-Bj-jc-9tZz6OTylKygW8jg)] // Thumbnail
+(https://www.youtube.com/watch?v=LfjG-SfHtPo "Lane Detection and Object Detection for Self-Driving RC Car Demonstration")    // Video Link]
 </p>
-<img align="right" alt="Coding" width="400" src="https://youtu.be/LfjG-SfHtPo">
 
+[<img src="https://i9.ytimg.com/vi/LfjG-SfHtPo/mqdefault.jpg?v=630d2723&sqp=CPjMtJgG&rs=AOn4CLCUkdU-Bj-jc-9tZz6OTylKygW8jg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
