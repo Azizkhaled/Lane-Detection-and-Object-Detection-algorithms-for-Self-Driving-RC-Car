@@ -6,4 +6,5 @@ With the increase in numbers of car traffic collisions caused by the human  driv
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LfjG-SfHtPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </p>
+<img align="right" alt="Coding" width="400" src="https://youtu.be/LfjG-SfHtPo">
 
